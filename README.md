@@ -36,6 +36,8 @@ The dashboard provides insights into **transaction performance, user growth, and
 
 ## 📊 Dashboard Screenshots & Explanation
 
+### HOME
+![HOME](Screenshot 2026-01-12 232225.png)
 ### 🔹 Overall Transaction Overview
 
 ![Transaction Overview](screenshots/transaction_overview.png)
