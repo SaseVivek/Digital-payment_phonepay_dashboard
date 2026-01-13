@@ -40,12 +40,20 @@ The dashboard provides insights into **transaction performance, user growth, and
 
 This dashboard acts as the central navigation hub for the entire PhonePe analysis report.
 It provides quick access to all dashboards including Strategic Overview, Customer Intelligence, Service Performance, and Business Insights, ensuring smooth user navigation.
+
+![Strategic Overview](screenshots/home.png)
+
+
 ---
+
 
 🔹 Strategic Overview
 
 This dashboard provides a high-level view of overall transaction performance across months and services.
 It highlights MoM growth, peak transaction month, YoY user growth, and target success rate, helping stakeholders track overall business health and trends.
+
+![Strategic Overview](screenshots/strategic overview.png)
+
 ---
 
 🔹 Customer Intelligence
