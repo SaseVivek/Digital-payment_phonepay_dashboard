@@ -36,50 +36,34 @@ The dashboard provides insights into **transaction performance, user growth, and
 
 ## 📊 Dashboard Screenshots & Explanation
 
-### HOME
-![HOME](Screenshot 2026-01-12 232225.png)
-### 🔹 Overall Transaction Overview
+🔹 Control Centre (Home Dashboard)
 
-![Transaction Overview](screenshots/transaction_overview.png)
-
-This dashboard provides a **high-level summary of total transactions**, including transaction count, transaction value, and overall growth trends.
-It helps stakeholders quickly understand the **overall digital payment performance**.
-
+This dashboard acts as the central navigation hub for the entire PhonePe analysis report.
+It provides quick access to all dashboards including Strategic Overview, Customer Intelligence, Service Performance, and Business Insights, ensuring smooth user navigation.
 ---
 
-### 🔹 State-wise Transaction Analysis
+🔹 Strategic Overview
 
-![State Analysis](screenshots/state_wise_analysis.png)
-
-This dashboard compares **transaction volume and value across different states**.
-It highlights **top-performing and low-performing regions**, enabling easy regional performance analysis.
-
+This dashboard provides a high-level view of overall transaction performance across months and services.
+It highlights MoM growth, peak transaction month, YoY user growth, and target success rate, helping stakeholders track overall business health and trends.
 ---
 
-### 🔹 User Growth & Distribution
+🔹 Customer Intelligence
 
-![User Analysis](screenshots/user_growth.png)
-
-This dashboard focuses on **user growth and geographical distribution** over time.
-It helps in understanding how **PhonePe user adoption is expanding across states**.
-
+This dashboard focuses on customer behavior and demographics.
+It analyzes average customer age, total unique users, transactions per user, age-group-wise transactions, and monthly user trends, enabling better understanding of user engagement patterns.
 ---
 
-### 🔹 Year & Quarter-wise Trend Analysis
+🔹 Service Performance
 
-![Trend Analysis](screenshots/trend_analysis.png)
-
-This dashboard displays **transaction trends across years and quarters**.
-It helps identify **growth patterns, seasonal trends, and transaction fluctuations**.
-
+This dashboard evaluates the performance of different PhonePe services.
+It shows revenue distribution by service type, UPI transaction channel flow, monthly transaction trends, loan success rate, and average transaction value, helping identify high-performing services.
 ---
 
-### 🔹 Top Performing States
+🔹 Business Insights
 
-![Top States](screenshots/top_states.png)
-
-This dashboard highlights the **states contributing the highest transaction value and user count**.
-It helps identify **key regions driving overall business growth**.
+This dashboard delivers actionable insights for business decision-making.
+It highlights total bills, transfer volume, transaction success rate, and service-wise performance, supporting strategic planning and operational improvements.
 
 ---
 
