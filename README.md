@@ -52,7 +52,7 @@ It provides quick access to all dashboards including Strategic Overview, Custome
 This dashboard provides a high-level view of overall transaction performance across months and services.
 It highlights MoM growth, peak transaction month, YoY user growth, and target success rate, helping stakeholders track overall business health and trends.
 
-![Strategic Overview](screenshots/strategic overview.png)
+![Strategic Overview](screenshots/strategic_overview.png)
 
 ---
 
@@ -60,18 +60,26 @@ It highlights MoM growth, peak transaction month, YoY user growth, and target su
 
 This dashboard focuses on customer behavior and demographics.
 It analyzes average customer age, total unique users, transactions per user, age-group-wise transactions, and monthly user trends, enabling better understanding of user engagement patterns.
+
+![Strategic Overview](screenshots/customer_intillegnce.png)
+
 ---
 
 🔹 Service Performance
 
 This dashboard evaluates the performance of different PhonePe services.
 It shows revenue distribution by service type, UPI transaction channel flow, monthly transaction trends, loan success rate, and average transaction value, helping identify high-performing services.
+
+![Strategic Overview](screenshots/service_performance.png)
+
 ---
 
 🔹 Business Insights
 
 This dashboard delivers actionable insights for business decision-making.
 It highlights total bills, transfer volume, transaction success rate, and service-wise performance, supporting strategic planning and operational improvements.
+
+![Strategic Overview](screenshots/business_insights.png)
 
 ---
 
